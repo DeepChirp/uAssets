@@ -908,3 +908,6 @@ thepiratebay3.com^$all
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/91680
 ||domenckiberaktivworldtpz.tk^$doc
+
+! https://www.huorong.cn/info/1628857757704.html
+||www.apkeditor.cn^$all
