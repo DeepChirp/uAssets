@@ -314,3 +314,6 @@ fedex.com,tacobell.com##+js(set, bmak.js_post, false)
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/95660
 ||ahentai.top/counter.php
+
+! https://github.com/uBlockOrigin/uAssets/pull/10100
+||tr.jianshu.com^
